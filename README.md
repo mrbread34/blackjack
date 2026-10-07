@@ -1,4 +1,4 @@
-# 4kuhdcasino — Blackjack
+# Blackjack
 
 A console Blackjack game written in Java.
 
